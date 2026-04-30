@@ -1,12 +1,6 @@
 # Denmark Regulatory Documents
 
-Markdown versions of regulatory documents for Denmark, sourced from the DBNSA Regulatory Repository and converted for easy reference and version tracking.
-
-## Documents
-
-| Document | Source File |
-|---|---|
-| [CONSOLIDATED EXECUTIVE ORDER ON ONLINE CASINO AS OF 27 JUNE 2018 Version Compare](CONSOLIDATED_EXECUTIVE_ORDER_ON_ONLINE_CASINO_AS_OF_27_JUNE_2018_-_version_compare.md) | CONSOLIDATED EXECUTIVE ORDER ON ONLINE CASINO AS OF 27 JUNE 2018 - version compare.docx |
+Markdown versions of regulatory documents for Denmark, extracted from the DBNSA Regulatory Repository.
 
 ## Source
 
